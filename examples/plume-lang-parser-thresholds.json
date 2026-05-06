@@ -1,0 +1,17 @@
+{
+  "repo": "plume-lang-parser-loom",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 3,
+    "ship": 152,
+    "watch": 120
+  },
+  "terms": [
+    "IR pressure",
+    "lowering drift",
+    "stack depth",
+    "diagnostic reach"
+  ]
+}
